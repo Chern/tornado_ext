@@ -6,5 +6,6 @@ setup(
     author = 'Alexander Chernigov',
     author_email = 'aleksandr.chernigov@gmail.com',
     url = 'https://github.com/Chern/tornado_ext',
-    packages = ['tornado_ext']   
+    packages = ['tornado_ext',
+                'tornado_ext.auth']
 )
